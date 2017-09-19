@@ -1,1 +1,1 @@
-start notepad
+start iexplore.exe google.no
