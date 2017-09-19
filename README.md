@@ -1,2 +1,1 @@
-# hac
-hac :-)
+shutdown -s
